@@ -1,5 +1,6 @@
-Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 530ms
-Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1372ms
-Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 544ms
-Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 594ms
-Name: 安多卫视, URL: http://stream.qhbtv.com/adws/sd/live.m3u8, Date: None, Resolution: None, Response Time: 1529ms
+Name: 亲子趣学4k, URL: http://118.114.200.216:4022/udp/239.93.1.191:5140, Date: 05-30-2024, Resolution: 3840x2160, Response Time: 526ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1070ms
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1427ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 537ms
+Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 568ms
+Name: 安多卫视, URL: http://stream.qhbtv.com/adws/sd/live.m3u8, Date: None, Resolution: None, Response Time: 2641ms
