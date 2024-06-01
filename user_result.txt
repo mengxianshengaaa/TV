@@ -35,7 +35,7 @@ CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
 电视指南,http://nas.0731wang.com:14022/udp/239.76.254.61:9000
 
 4K&8K系列,#genre#
-亲子趣学4k,http://118.114.200.216:4022/udp/239.93.1.191:5140
+亲子趣学4k,http://wasky.iask.in:9100/udp/239.93.1.191:5140
 中录动漫4K,http://wasky.iask.in:9100/udp/239.93.1.188:5140
 绚影4K,http://iptv.028028.xyz:8/rtp/239.93.42.33:5140
 欢笑剧场4K,http://ssrs2004.win:8888/rtp/239.111.205.1:5140
