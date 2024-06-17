@@ -22,25 +22,23 @@ CHC家庭影院（50帧）,http://nas.0731wang.com:14022/udp/239.76.245.241:1234
 CHC影迷电影（50帧）,http://ojbk.02200059.xyz:4022/udp/226.1.30.181:6000
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV-8K 超高清,https://tv.cry33.com/ys4k.php?id=8k
-兵器科技,http://gmxw.7766.org:808/hls/21/index.m3u8
-怀旧剧场,http://gmxw.7766.org:808/hls/92/index.m3u8
-世界地理,http://60.2.190.206:4000/rtp/239.253.92.113:8066
-文化精品,http://gmxw.7766.org:808/hls/97/index.m3u8
-央视台球,http://gzly.hkychina.com:6001/udp/239.252.219.80:5140
+兵器科技,http://nas.0731wang.com:14022/udp/239.76.247.59:1234
+怀旧剧场,http://nas.0731wang.com:14022/udp/239.76.247.53:1234
+世界地理,http://nas.0731wang.com:14022/udp/239.76.247.57:1234
+文化精品,http://nas.0731wang.com:14022/udp/239.76.254.56:9000
+央视台球,http://ojbk.02200059.xyz:4022/udp/226.1.30.225:6000
 央视高网,http://nas.0731wang.com:14022/udp/239.76.254.62:9000
-风云剧场,http://gmxw.7766.org:808/hls/95/index.m3u8
-风云音乐,http://gmxw.7766.org:808/hls/99/index.m3u8
-第一剧场,http://1.83.121.81:8888/rtp/239.111.205.65:5140
-女性时尚,http://gmxw.7766.org:808/hls/12/index.m3u8
-风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8
-电视指南,http://gmxw.7766.org:808/hls/13/index.m3u8
+风云剧场,http://nas.0731wang.com:14022/udp/239.76.254.50:9000
+风云音乐,http://ojbk.02200059.xyz:4022/udp/226.1.30.154:6000
+女性时尚,http://nas.0731wang.com:14022/udp/239.76.254.55:9000
+风云足球,http://nas.0731wang.com:14022/udp/239.76.247.52:1234
+电视指南,http://nas.0731wang.com:14022/udp/239.76.254.61:9000
 
 4K&8K系列,#genre#
-纯享4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 亲子趣学4k,http://wasky.iask.in:9100/udp/239.93.1.191:5140
 中录动漫4K,http://wasky.iask.in:9100/udp/239.93.1.188:5140
 绚影4K,http://iptv.028028.xyz:8/rtp/239.93.42.33:5140
-欢笑剧场4K,http://171.208.14.218:9090/live/hxjchd/hls.m3u8
+欢笑剧场4K,http://ssrs2004.win:8888/rtp/239.111.205.1:5140
 BesTv 4K电影,http://tx191.tpddns.cn:4022/udp/239.45.3.107:5140
 百事通4K电影,http://tx191.tpddns.cn:4022/rtp/239.45.1.42:5140
 百事通4K纪实,http://tx191.tpddns.cn:4022/rtp/239.45.1.10:5140
@@ -48,7 +46,7 @@ BesTv 4K电影,http://tx191.tpddns.cn:4022/udp/239.45.3.107:5140
 百事通4K测试（5.1环绕声）,http://iptv.028028.xyz:8/udp/239.93.42.75:5140
 北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 「轮播」搜狐4K,http://www.liam008.top:4022/rtp/225.1.2.190:5002
-爱上4K,http://yujukoo.gicp.net:8888/udp/239.93.0.97:5140
+爱上4K,http://paofan.boyi56.cn:4022/rtp/239.3.1.236:2000
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 数字频道,#genre#
@@ -71,7 +69,7 @@ NewTv五星体育,http://tx191.tpddns.cn:4022/udp/239.45.3.210:5140
 NewTv超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NewTv怡伴健康,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 NewTv农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-NewTv超级电影,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+NewTv超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NewTv动作电影,http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
 NewTv精彩影视,http://ojbk.02200059.xyz:4022/udp/226.1.30.194:6000
 NewTv超级综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
@@ -82,7 +80,7 @@ NewTv中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 NewTv军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 NewTv炫舞未来,http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 NewTv潮妈辣婆,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-NewTv精品体育,http://112.44.6.47:4022/udp/239.11.0.134:5140
+NewTv精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 NewTv精品纪录,http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
 NewTv家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 NewTv精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
@@ -94,42 +92,41 @@ NewTv古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
 NewTv金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 NewTv惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
-求索记录,http://iku.sunnyli.link:4144/udp/239.252.220.224:5140
+求索记录,http://iptv.028028.xyz:8/rtp/239.93.42.24:5140
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 
 卫视频道,#genre#
-四川卫视,http://ayolee.com:5253/udp/239.93.0.169:5140
-天津卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
-安徽卫视,http://169137.netsite.cc/proxy/1817490980/1817490980.m3u8
-山东卫视,http://169137.netsite.cc/proxy/1763730718/1763730718.m3u8
-广西卫视,http://113.13.173.215:6666/udp/239.81.0.107:4056
-江西卫视,http://169137.netsite.cc/proxy/1871199348/1871199348.m3u8
-河北卫视,http://169137.netsite.cc/proxy/1385861493/1385861493.m3u8
-海南卫视,http://169137.netsite.cc/proxy/1868988087/1868988087.m3u8
-深圳卫视,http://169137.netsite.cc/proxy/1210483979/1210483979.m3u8
-广东卫视,http://116.21.123.117:4433/tsfile/live/0125_1.m3u8
-湖北卫视,http://169137.netsite.cc/proxy/1877417018/1877417018.m3u8
-山西卫视,http://169137.netsite.cc/proxy/825435414/825435414.m3u8
-海峡卫视,http://169137.netsite.cc/proxy/1400186150/1400186150.m3u8
-东南卫视,http://169137.netsite.cc/proxy/1989099435/1989099435.m3u8
-贵州卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225586/index.m3u8
-辽宁卫视,http://123.163.55.234:9901/tsfile/live/0121_1.m3u8
-重庆卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
-黑龙江卫视,http://169137.netsite.cc/proxy/813712546/813712546.m3u8
-陕西卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
-甘肃卫视,http://169137.netsite.cc/proxy/1209404373/1209404373.m3u8
-吉林卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
-云南卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
-三沙卫视,http://169137.netsite.cc/proxy/1337100319/1337100319.m3u8
-青海卫视,http://169137.netsite.cc/proxy/1152127449/1152127449.m3u8
-新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8
-西藏卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227131/index.m3u8
-兵团卫视,http://169137.netsite.cc/proxy/1502802665/1502802665.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-厦门卫视,https://histar.zapi.us.kg/?id=xiamen
-内蒙古卫视,http://www.unraidd.top:8282/udp/239.29.0.2:5000
-宁夏卫视,http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=a94c8b981714334210
+四川卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8
+天津卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel28/1300.m3u8
+安徽卫视,http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
+山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+广西卫视,http://gzcyl001.3322.org:8081/hls/52/index.m3u8
+江西卫视,http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
+深圳卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel17/1300.m3u8
+广东卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
+湖北卫视,http://115.149.139.141:10001/tsfile/live/1027_1.m3u8
+山西卫视,http://istore4.qnas.net:8889/udp/226.0.2.152:9128&山西ip
+海峡卫视,http://prettyalan.vicp.cc:8888/udp/239.61.5.45:1025
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u83
+辽宁卫视,http://gzcyl001.3322.org:8081/hls/44/index.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+陕西卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel55/1300.m3u8
+甘肃卫视,http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
+吉林卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/1300.m3u8
+云南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel61/1300.m3u8
+三沙卫视,http://ad455y.x3322.net:9999/udp/239.253.64.112:5140
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+新疆卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel64/1300.m3u8
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 
 大陆外（部分网络无法使用）,#genre#
 星空卫视（港）,http://iptv.028028.xyz:8/udp/239.93.0.156:2193
@@ -142,7 +139,7 @@ Channel[V]（港）,http://iptv.028028.xyz:8/udp/239.93.0.157:2194
 STARmovies（港）,http://117.114.153.25:8180/TV00000000000000000075@HHZT
 axn电影（港）,http://117.114.153.25:8180/TV00000000000000000076@HHZT
 CINEMAX电影（港）,http://117.114.153.25:8180/TV00000000000000000109@HHZT
-tvb星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+tvb星河,http://117.114.153.25:8180/TV00000000000000000073@HHZT
 HBO（美）,http://117.114.153.25:8180/TV00000000000000000074@HHZT
 东森超视（台）,rtmp://f13h.mine.nu/sat/tv331
 龙祥电影&酒店源（台）,http://171.108.239.74:8181/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
