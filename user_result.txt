@@ -113,7 +113,7 @@ NewTv惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 东南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel80/1300.m3u8
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u83
 辽宁卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel32/1300.m3u8
-重庆卫视,https://sjlivecdn9.cbg.cn/202406221220/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 陕西卫视,http://tiger81.i234.me:8888/rtp/239.111.205.35:5140
 甘肃卫视,http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
